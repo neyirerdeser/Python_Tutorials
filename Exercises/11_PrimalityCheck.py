@@ -1,0 +1,2 @@
+input('check if prime: ')
+
