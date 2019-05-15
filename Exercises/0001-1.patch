@@ -1,0 +1,16 @@
+From 20cc7f80e274f93893e43e942120e75c12b70ca7 Mon Sep 17 00:00:00 2001
+From: neyirerdeser <neyirerdeser@gmail.com>
+Date: Tue, 14 May 2019 18:47:27 +0300
+Subject: [PATCH] 1
+
+---
+ Exercises/1.py | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 Exercises/1.py
+
+diff --git a/Exercises/1.py b/Exercises/1.py
+new file mode 100644
+index 0000000..e69de29
+-- 
+2.19.0
+
